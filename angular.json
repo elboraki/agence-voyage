@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "agence-voyage"
+    }
+  },
+  "defaultProject": "agence-voyage",
+  "cli": {
+    "analytics": false
+  }
 }
